@@ -1,0 +1,9 @@
+﻿global using JOIEnergy.Enums;
+global using JOIEnergy.Services;
+global using System;
+global using System.Collections.Generic;
+global using Xunit;
+global using JOIEnergy.Domain;
+global using JOIEnergy.Controllers;
+global using JOIEnergy.Domain;
+global using System.Linq;

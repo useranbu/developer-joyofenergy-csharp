@@ -1,0 +1,14 @@
+﻿global using JOIEnergy.Domain;
+global using JOIEnergy.Enums;
+global using JOIEnergy.Generator;
+global using JOIEnergy.Services;
+global using Microsoft.AspNetCore;
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.AspNetCore.Hosting;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
